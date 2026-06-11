@@ -4,7 +4,7 @@ A clean and minimal Visual Studio Code light color theme.
 
 ## Screenshots
 
-![Kei Theme Preview](screenshot.png)
+![Kei Theme Preview](https://raw.githubusercontent.com/Minta1234/Vscode-Theme/main/Screenshort.png)
 
 ## Installation
 
@@ -27,9 +27,8 @@ Or install manually via VSIX:
 
 ## Feedback & Issues
 
-Found a bug or have a suggestion? Feel free to open an issue.
+Found a bug or have a suggestion? Open an issue on [GitHub](https://github.com/Minta1234/Vscode-Theme/issues).
 
 ## License
 
 MIT © minta1234
-# Vscode-Theme
