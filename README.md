@@ -15,7 +15,7 @@ A clean and minimal Visual Studio Code light color theme.
 
 Or install manually via VSIX:
 
-1. Download `kei-theme-0.0.1.vsix`
+1. Download `Antigravity.vsix` or `VSCode.vsix`
 2. Extensions sidebar → `···` → **Install from VSIX...**
 3. Select the downloaded file
 
