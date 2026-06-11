@@ -1,3 +1,4 @@
 .CHANGELOG.md
 .vscodeignore
-.vsix
+VSCode.vsix
+Antigravity.vsix
