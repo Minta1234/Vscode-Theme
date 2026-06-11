@@ -1,0 +1,27 @@
+{
+  "name": "kei-theme",
+  "displayName": "Kei theme",
+  "description": "Kei theme this Light theme",
+  "version": "0.0.1",
+  "publisher": "minta1234",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minta1234/kei-theme"
+  },
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kei",
+        "uiTheme": "vs",
+        "path": "./themes/Kei-color-theme.json"
+      }
+    ]
+  }
+}
